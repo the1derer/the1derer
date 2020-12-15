@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning about compiler and JavaScript.
+- 🌱 I’m currently learning about compilers and JavaScript.
 - 😄 Pronouns: He/Him
